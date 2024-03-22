@@ -1,2 +1,14 @@
 # Day 2
 - 1) **Get user input**
+- 2) **Positional Arguments**
+- 3) **Pipping + Grep**
+- 4) **Ouput + Append to file**
+- 5) **Word count**
+- 6) **Test Operators**
+- 7) **if - elif - else**
+- 8) **array**
+- 9) **loop**
+- 10) **Function**
+- 11) **Function Argument**
+- 12) **awk separation**
+- 13) **String replacement using sed**
